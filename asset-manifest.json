@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nilgiri/static/css/main.365408f6.chunk.css",
+    "main.js": "/nilgiri/static/js/main.cfa3b488.chunk.js",
+    "main.js.map": "/nilgiri/static/js/main.cfa3b488.chunk.js.map",
+    "runtime-main.js": "/nilgiri/static/js/runtime-main.91d70fba.js",
+    "runtime-main.js.map": "/nilgiri/static/js/runtime-main.91d70fba.js.map",
+    "static/css/2.f7384f83.chunk.css": "/nilgiri/static/css/2.f7384f83.chunk.css",
+    "static/js/2.9fe1092a.chunk.js": "/nilgiri/static/js/2.9fe1092a.chunk.js",
+    "static/js/2.9fe1092a.chunk.js.map": "/nilgiri/static/js/2.9fe1092a.chunk.js.map",
+    "index.html": "/nilgiri/index.html",
+    "precache-manifest.6dc2ecd6a755fe64ef32fd04dde86d3d.js": "/nilgiri/precache-manifest.6dc2ecd6a755fe64ef32fd04dde86d3d.js",
+    "service-worker.js": "/nilgiri/service-worker.js",
+    "static/css/2.f7384f83.chunk.css.map": "/nilgiri/static/css/2.f7384f83.chunk.css.map",
+    "static/css/main.365408f6.chunk.css.map": "/nilgiri/static/css/main.365408f6.chunk.css.map",
+    "static/js/2.9fe1092a.chunk.js.LICENSE.txt": "/nilgiri/static/js/2.9fe1092a.chunk.js.LICENSE.txt",
+    "static/media/Righteous-Regular.ttf": "/nilgiri/static/media/Righteous-Regular.77fa0099.ttf",
+    "static/media/semantic.min.css": "/nilgiri/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91d70fba.js",
+    "static/css/2.f7384f83.chunk.css",
+    "static/js/2.9fe1092a.chunk.js",
+    "static/css/main.365408f6.chunk.css",
+    "static/js/main.cfa3b488.chunk.js"
+  ]
+}
