@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2ee094b59316baf7aace625650e62ec",
+    "revision": "dd5eb4f3d2ac2664c60476032ca49035",
     "url": "/nilgiri/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nilgiri/static/css/2.f7384f83.chunk.css"
   },
   {
-    "revision": "c9609c34aef6a2e9dee7",
+    "revision": "8e545ab278fad24b838a",
     "url": "/nilgiri/static/css/main.365408f6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nilgiri/static/js/2.9fe1092a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9609c34aef6a2e9dee7",
-    "url": "/nilgiri/static/js/main.cfa3b488.chunk.js"
+    "revision": "8e545ab278fad24b838a",
+    "url": "/nilgiri/static/js/main.649b8473.chunk.js"
   },
   {
     "revision": "e124d1f27195cfdf841d",
