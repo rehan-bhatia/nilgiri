@@ -1,0 +1,134 @@
+@font-face{
+	font-family: 'Righteous';
+	src: local('Righteous'), url(../Fonts/Righteous-Regular.ttf) format("truetype");
+}
+
+.link {
+	cursor: pointer;
+}
+
+.nav {
+	z-index: 1;
+	font-size: 2vh;
+	margin-top: 10px;
+}
+
+.mt {
+	margin-top: 20px;
+}
+.main-grid{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.image-grid{
+	margin: 10px;
+	display: inline-flex;
+	justify-content: space-between;
+}
+
+.centered {
+	margin: auto;
+	width: 80vw;
+}
+
+.link:hover{
+	text-decoration: underline;
+}
+
+.navbar {
+	z-index:1;
+	margin-top: 10px;
+	width: 100vw;
+}
+
+.flexed {
+	display: grid;
+	gap:10px;
+	grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+	margin: 10px;
+	margin-top:20px;
+	justify-content: center;
+}
+
+
+.divflex{
+	float:right;
+	padding-left: 20px;
+	padding-top:20px;
+	background-color: #f4f5f7;
+	width:75vw;
+	height: 400px;
+	display: flex;
+	flex-wrap: nowrap;
+	flex-flow: nowrap;
+	overflow-x: scroll;
+	margin-bottom: 20px;
+}
+
+.grid-holder {
+	/*background-color: #f4f5f7;*/
+	margin: auto;
+	margin-bottom: 0px;
+}
+
+.divflex::-webkit-scrollbar {
+  display: none;
+}
+
+.sideline {
+	padding-left: 40px;
+	padding-top: 100px;
+	width:25vw;
+	float: left;
+	height: 400px;
+	background-color: #172b4d;
+	margin-bottom: 20px;
+}
+
+.sideline2 {
+	float: right;
+}
+
+h1{
+	font-family: "Avenir";
+	font-weight: normal;
+}
+.cooltext {
+	margin-top: 90px;
+	margin-bottom: 0px;
+	color: white;
+	font-size: max(3vw,16px);
+	font-family: Righteous;
+}
+
+.desc {
+	font-size: max(1.5vw, 15px);
+}
+
+.navbar {
+	position: fixed;
+	top: 0;
+	margin-top: 0px;
+}
+
+.cover {
+	height: 80vh;
+}
+
+.desc {
+	font-family: "Avenir";
+	margin-top: 25px;
+}
+
+.footer {
+	width: 100vw;
+	margin: 0px;
+	background-color: black;
+}
+
+.grid2 {
+	display: inline-flex;
+	justify-content: space-between;
+}

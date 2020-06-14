@@ -1,0 +1,14 @@
+.gallery {
+  filter: grayscale(100%);
+  transition: all 1s;
+}
+
+.gallery:hover {
+  transform: scale(1.03);
+  filter: none;
+}
+
+main {
+	margin-top: 100px;
+}
+
