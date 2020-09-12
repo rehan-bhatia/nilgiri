@@ -1,0 +1,158 @@
+html {
+	margin: 0;
+  font-family: Avenir;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #7F7FD5;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  ground: linear-gradient(to right, #EAECC6, #2BC0E4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.link {
+	cursor: pointer;
+}
+
+.nav {
+	z-index: 1;
+	font-size: 2vh;
+	margin-top: 10px;
+}
+
+.mt {
+	margin-top: 20px;
+}
+.main-grid{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.image-grid{
+	margin: 10px;
+	display: inline-flex;
+	justify-content: space-between;
+}
+
+.centered {
+	margin: auto;
+	width: 80vw;
+}
+
+.link:hover{
+	text-decoration: underline;
+}
+
+.navbar {
+	z-index:1;
+	margin-top: 10px;
+	width: 100vw;
+}
+
+.flexed {
+	display: grid;
+	gap:10px;
+	grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+	margin: 10px;
+	margin-top:20px;
+	justify-content: center;
+}
+
+
+.divflex{
+	float:right;
+	padding-left: 20px;
+	padding-top:20px;
+	background-color: #f4f5f7;
+	width:75vw;
+	height: 400px;
+	display: flex;
+	flex-wrap: nowrap;
+	flex-flow: nowrap;
+	overflow-x: scroll;
+	margin-bottom: 20px;
+}
+
+.grid-holder {
+	/*background-color: #f4f5f7;*/
+	margin: auto;
+	margin-bottom: 0px;
+}
+
+.divflex::-webkit-scrollbar {
+  display: none;
+}
+
+.sideline {
+	padding-left: 40px;
+	padding-top: 100px;
+	width:25vw;
+	float: left;
+	height: 400px;
+	background-color: #172b4d;
+	margin-bottom: 20px;
+}
+
+.sideline2 {
+	float: right;
+}
+
+h2{
+	font-family: "Avenir";
+	font-weight: normal;
+}
+.cooltext {
+	margin-top: 30px;
+	margin-bottom: 0px;
+	color: white;
+	font-size: max(2.5vw,16px);
+	font-family: Avenir;
+}
+
+.desc {
+	font-size: max(1.25vw, 14px);
+}
+
+.navbar {
+	position: fixed;
+	top: 0;
+	margin-top: 0px;
+}
+
+.cover {
+	height: 80vh;
+}
+
+.desc {
+	font-family: "Avenir";
+	margin-top: 25px;
+}
+
+.footer {
+	width: 100vw;
+	margin: 0px;
+	background-color: black;
+}
+
+.grid2 {
+	display: inline-flex;
+	justify-content: space-between;
+}
+
+.footer-box {
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	justify-content: center;
+	align-content: space-around;
+}
+
+.flexing {
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: space-around;
+
+}
